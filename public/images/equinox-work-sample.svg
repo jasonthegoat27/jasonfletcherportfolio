@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#f8fafc"/>
+  <rect x="60" y="60" width="1080" height="600" rx="42" fill="#0f172a"/>
+  <rect x="95" y="95" width="1010" height="530" rx="30" fill="#e0f2fe"/>
+  <text x="600" y="310" text-anchor="middle" font-family="Arial" font-size="54" font-weight="700" fill="#0f172a">Equinox Franchise Business Plan</text>
+  <text x="600" y="385" text-anchor="middle" font-family="Arial" font-size="28" fill="#475569">Upload/export a slide screenshot here if you want the actual slide preview.</text>
+</svg>
