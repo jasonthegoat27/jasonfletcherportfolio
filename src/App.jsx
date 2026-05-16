@@ -14,15 +14,16 @@ const navItems = [
 ];
 
 const imagePaths = {
-  headshot: "/images/headshot.png",
-  linkedinTop: "/images/linkedin-profile-top.png",
-  linkedinAbout: "/images/linkedin-about.png",
-  linkedinExperience: "/images/linkedin-experience.png",
-  linkedinSkills: "/images/linkedin-skills.png",
-  scrp1: "/images/scrp-standards-1.png",
-  scrp2: "/images/scrp-standards-2.png",
-  equinox: "/images/equinox-work-sample.svg",
-  inklings: "/images/inklings-work-sample.svg",
+const imagePaths = {
+  headshot: "/jasonfletcherportfolio/images/headshot.png",
+  linkedinTop: "/jasonfletcherportfolio/images/linkedin-profile-top.png",
+  linkedinAbout: "/jasonfletcherportfolio/images/linkedin-about.png",
+  linkedinExperience: "/jasonfletcherportfolio/images/linkedin-experience.png",
+  linkedinSkills: "/jasonfletcherportfolio/images/linkedin-skills.png",
+  scrp1: "/jasonfletcherportfolio/images/scrp-standards-1.png",
+  scrp2: "/jasonfletcherportfolio/images/scrp-standards-2.png",
+  equinox: "/jasonfletcherportfolio/images/equinox-work-sample.svg",
+  inklings: "/jasonfletcherportfolio/images/inklings-work-sample.svg",
 };
 
 const scrpStandards = [
