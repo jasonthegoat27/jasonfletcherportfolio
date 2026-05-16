@@ -106,7 +106,7 @@ export default function App() {
           <div className="container hero-grid">
             <motion.div initial={{ opacity: 0, y: 24 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.7 }}>
               <Badge>Amador Valley Student • OPTERRA Intern • Track Athlete</Badge>
-              <h1>Professional portfolio for engineering, business, leadership, and career growth.</h1>
+              <h1>Profesional Portfolio by Jason Fletcher.</h1>
               <p className="hero-text">I am Jason Fletcher, an aspiring engineer and business-minded student from Pleasanton, California. This portfolio highlights my professional development, CTE projects, LinkedIn profile, leadership growth, and work experience.</p>
               <div className="hero-actions">
                 <ButtonLink href="#cte-work">View Work Samples</ButtonLink>
