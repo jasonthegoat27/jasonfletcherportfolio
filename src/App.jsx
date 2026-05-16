@@ -21,8 +21,8 @@ const imagePaths = {
   linkedinSkills: "/jasonfletcherportfolio/images/linkedin-skills.png",
   scrp1: "/jasonfletcherportfolio/images/scrp-standards-1.png",
   scrp2: "/jasonfletcherportfolio/images/scrp-standards-2.png",
-  equinox: "/jasonfletcherportfolio/images/equinox-work-sample.svg",
-  inklings: "/jasonfletcherportfolio/images/inklings-work-sample.svg",
+equinox: "/jasonfletcherportfolio/images/equinox-work-sample.png",
+inklings: "/jasonfletcherportfolio/images/inklings-work-sample.png",
 };
 
 const scrpStandards = [
