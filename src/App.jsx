@@ -226,7 +226,14 @@ export default function App() {
 >
   View Full Project
 </a>
-
+<a
+  className="button light"
+  href="/jasonfletcherportfolio/projects/equinox-reflection.pdf"
+  target="_blank"
+  rel="noreferrer"
+>
+  View Reflection
+</a>
 <div className="note"><b>SCRP Standards:</b> SCRP 2, SCRP 4, SCRP 5, SCRP 9, SCRP 10, SCRP 11, SCRP 12</div>
             </Card>
 
@@ -247,7 +254,14 @@ export default function App() {
 >
   View Full Project
 </a>
-
+<a
+  className="button light"
+  href="/jasonfletcherportfolio/projects/inklings-reflection.pdf"
+  target="_blank"
+  rel="noreferrer"
+>
+  View Reflection
+</a>
 <div className="note"><b>SCRP Standards:</b> SCRP 2, SCRP 4, SCRP 5, SCRP 9, SCRP 11</div>
             </Card>
           </div>
