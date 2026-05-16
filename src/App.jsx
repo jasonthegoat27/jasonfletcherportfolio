@@ -216,8 +216,18 @@ export default function App() {
                 <p>Equinox Fitness expansion plan for Bangalore, India.</p>
               </div>
               <PortfolioImage src={imagePaths.equinox} alt="Equinox franchise business plan screenshot" />
-              <p>I created and pitched a 20-page franchising plan to an industry professional. The project focused on opening an exclusive high-end gym in India based on market growth and Equinox’s premium brand.</p>
-              <div className="note"><b>SCRP Standards:</b> SCRP 2, SCRP 4, SCRP 5, SCRP 9, SCRP 10, SCRP 11, SCRP 12</div>
+<p>I created and pitched a 20-page franchising plan to an industry professional. The project focused on opening an exclusive high-end gym in India based on market growth and Equinox’s premium brand.</p>
+
+<a
+  className="button dark"
+  href="/jasonfletcherportfolio/projects/equinox-business-plan.pdf"
+  target="_blank"
+  rel="noreferrer"
+>
+  View Full Project
+</a>
+
+<div className="note"><b>SCRP Standards:</b> SCRP 2, SCRP 4, SCRP 5, SCRP 9, SCRP 10, SCRP 11, SCRP 12</div>
             </Card>
 
             <Card className="work-card">
@@ -227,8 +237,18 @@ export default function App() {
                 <p>Research and improvement proposal for Inklings Coffee Shop.</p>
               </div>
               <PortfolioImage src={imagePaths.inklings} alt="Inklings business operations research plan screenshot" />
-              <p>This project researched hiring policy problems at Inklings. My group gathered information from a company liaison, built charts to show the issue, and created a practical solution.</p>
-              <div className="note"><b>SCRP Standards:</b> SCRP 2, SCRP 4, SCRP 5, SCRP 9, SCRP 11</div>
+<p>This project researched hiring policy problems at Inklings. My group gathered information from a company liaison, built charts to show the issue, and created a practical solution.</p>
+
+<a
+  className="button dark"
+  href="/jasonfletcherportfolio/projects/inklings-research-plan.pdf"
+  target="_blank"
+  rel="noreferrer"
+>
+  View Full Project
+</a>
+
+<div className="note"><b>SCRP Standards:</b> SCRP 2, SCRP 4, SCRP 5, SCRP 9, SCRP 11</div>
             </Card>
           </div>
         </Section>
