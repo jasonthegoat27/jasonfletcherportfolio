@@ -14,7 +14,6 @@ const navItems = [
 ];
 
 const imagePaths = {
-const imagePaths = {
   headshot: "/jasonfletcherportfolio/images/headshot.png",
   linkedinTop: "/jasonfletcherportfolio/images/linkedin-profile-top.png",
   linkedinAbout: "/jasonfletcherportfolio/images/linkedin-about.png",
