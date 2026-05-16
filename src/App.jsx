@@ -198,6 +198,26 @@ export default function App() {
                 {["Revit", "Autodesk Fusion 360", "Canva", "Microsoft Excel", "Windows 10"].map((skill) => <Badge key={skill}>{skill}</Badge>)}
               </div>
             </Card>
+            <Card>
+  <div className="icon blue">📞</div>
+
+  <h3>Professional Reference</h3>
+
+  <p>
+    <b>Katy Moulthrop</b><br />
+    Senior Sales Advisor<br />
+    OPTERRA Energy Services
+  </p>
+
+  <p>
+    Supervised my internship work involving renewable energy,
+    collaboration, leadership, and presentation development.
+  </p>
+
+  <div className="note">
+    Contact: kmoulthrop@opterraenergy.com
+  </div>
+</Card>
           </div>
 
           <Card className="recommendation">
