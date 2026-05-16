@@ -217,6 +217,14 @@ export default function App() {
   <div className="note">
     Contact: kmoulthrop@opterraenergy.com
   </div>
+              <a
+  className="button dark"
+  href="/jasonfletcherportfolio/projects/recommendation-letter.pdf"
+  target="_blank"
+  rel="noreferrer"
+>
+  View Full Recommendation Letter
+</a>
 </Card>
           </div>
 
